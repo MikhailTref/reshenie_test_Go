@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "reshenie_Go", "reshenie_Go.pyproj", "{91E70C3B-7D37-4B63-829E-C7A9E334A705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E70C3B-7D37-4B63-829E-C7A9E334A705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E70C3B-7D37-4B63-829E-C7A9E334A705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FD17DC4-5152-4B18-8933-67BA628ED7D6}
+	EndGlobalSection
+EndGlobal
